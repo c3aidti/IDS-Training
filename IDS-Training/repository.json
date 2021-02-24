@@ -1,0 +1,9 @@
+repository.json
+{
+  "name": "apps",
+  "version": "0.0.1",
+  "description": "Example repository",
+  "dependencies": {
+    "server" : "7.13.1"
+  }
+}
